@@ -1,0 +1,1001 @@
+fever,cough,fatigue,headache,nausea,rash,shortness_of_breath,joint_pain,sore_throat,diarrhea,disease
+0,0,0,0,0,0,0,0,1,1,Common Cold
+1,0,0,1,1,0,0,0,0,0,Common Cold
+1,1,1,0,1,1,1,1,0,1,COVID-19
+0,1,0,0,0,0,0,1,1,0,Flu
+0,1,0,0,0,1,0,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,0,0,Common Cold
+0,0,0,1,0,1,0,0,1,0,Common Cold
+1,1,1,0,0,1,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,0,1,0,Common Cold
+1,1,0,0,0,1,1,1,0,0,COVID-19
+1,1,1,0,0,0,1,0,0,0,COVID-19
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,1,0,0,0,0,0,0,0,0,Common Cold
+0,1,0,0,0,0,1,1,1,0,Flu
+0,0,0,1,1,0,0,0,0,0,Common Cold
+0,0,1,0,1,0,0,0,0,1,Common Cold
+0,1,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,1,0,1,0,1,1,0,Common Cold
+0,0,1,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,1,1,1,Common Cold
+0,1,1,0,0,1,1,1,1,0,Flu
+0,1,0,0,1,1,0,1,0,0,Common Cold
+0,1,0,0,0,1,0,0,0,0,Common Cold
+1,0,0,0,1,0,0,0,0,0,Common Cold
+0,1,1,1,0,0,1,0,1,0,Flu
+0,1,1,0,0,0,0,1,0,0,Common Cold
+0,0,0,0,1,1,1,0,0,1,Common Cold
+0,1,0,0,0,0,0,0,1,0,Flu
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,1,0,0,1,0,0,0,Common Cold
+1,0,1,0,1,0,0,0,0,1,Common Cold
+1,0,0,0,0,0,0,0,1,0,Common Cold
+1,0,0,0,1,0,0,1,0,1,Common Cold
+0,0,0,0,1,0,1,0,0,0,Common Cold
+0,1,0,1,1,1,1,0,1,1,Measles
+0,0,0,0,0,1,0,0,0,1,Common Cold
+0,0,0,0,0,1,1,0,1,0,Common Cold
+0,0,1,0,1,1,0,1,1,0,Common Cold
+0,1,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+1,0,0,0,0,0,0,0,1,0,Common Cold
+0,1,1,1,0,0,1,1,0,0,Common Cold
+0,0,1,1,0,0,1,0,0,0,Common Cold
+0,0,0,0,0,0,0,1,1,0,Common Cold
+0,0,1,0,0,0,0,0,0,0,Common Cold
+0,1,0,0,1,0,1,0,1,1,Flu
+0,0,0,0,0,0,1,0,0,0,Common Cold
+1,1,0,0,1,0,0,1,0,1,Common Cold
+1,0,0,0,0,1,1,0,0,0,Common Cold
+1,1,0,0,1,0,0,1,1,0,Flu
+1,1,1,0,0,0,0,0,0,0,Common Cold
+0,1,1,0,1,0,1,0,1,0,Flu
+1,0,0,1,0,0,0,0,0,1,Common Cold
+0,1,0,0,1,0,0,1,0,1,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,1,0,1,1,0,0,Common Cold
+0,0,0,1,1,0,1,1,0,0,Common Cold
+0,1,0,0,0,1,0,1,0,1,Common Cold
+0,1,0,0,0,1,0,0,0,1,Common Cold
+1,1,1,0,1,0,0,0,1,1,Flu
+0,0,0,0,0,0,0,1,0,0,Common Cold
+0,0,0,0,1,1,0,0,1,0,Common Cold
+0,1,1,0,0,0,1,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,0,1,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+1,0,0,0,1,0,0,0,0,0,Common Cold
+1,0,1,1,0,0,1,0,0,1,Common Cold
+0,0,0,0,0,1,0,0,0,1,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+1,0,1,0,0,0,0,0,0,0,Common Cold
+1,1,1,0,0,1,0,0,1,0,Flu
+1,0,1,1,0,0,0,0,0,1,Common Cold
+1,0,0,1,0,0,0,0,0,1,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,0,1,0,1,0,0,0,0,1,Common Cold
+0,1,1,1,0,0,0,1,0,0,Common Cold
+1,1,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,1,0,0,1,1,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,1,1,0,1,0,0,0,0,1,Common Cold
+0,1,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,0,0,0,1,1,0,1,0,Common Cold
+0,0,0,0,0,0,0,0,1,1,Common Cold
+1,1,1,0,1,0,1,0,0,0,COVID-19
+0,0,0,0,0,0,0,0,1,0,Common Cold
+0,1,1,0,1,0,0,0,1,0,Flu
+1,0,1,1,0,0,1,1,0,0,Common Cold
+1,0,0,0,0,1,0,0,0,0,Common Cold
+0,0,0,1,1,0,0,0,1,1,Common Cold
+1,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,1,0,1,1,Common Cold
+0,0,0,1,0,1,0,1,0,0,Common Cold
+0,0,0,0,0,0,1,0,0,0,Common Cold
+0,1,1,0,0,0,0,0,0,1,Common Cold
+0,0,0,0,0,0,1,1,0,0,Common Cold
+0,0,1,0,0,0,0,0,1,0,Common Cold
+0,1,0,1,0,0,1,0,1,1,Flu
+0,1,0,1,0,0,0,1,0,0,Common Cold
+0,1,0,0,0,0,1,0,0,1,Common Cold
+1,1,1,0,0,0,0,0,1,0,Flu
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,1,1,1,0,0,0,0,0,Common Cold
+1,1,1,0,0,0,0,0,0,1,Common Cold
+0,0,0,0,1,1,0,1,1,0,Common Cold
+0,0,1,0,0,1,1,0,1,1,Common Cold
+0,1,0,0,0,1,1,1,0,1,Common Cold
+0,0,0,0,0,1,0,1,0,0,Common Cold
+1,0,0,1,0,0,1,0,1,0,Common Cold
+1,0,1,0,0,1,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,0,1,0,0,1,1,0,0,Common Cold
+1,0,0,1,1,0,0,1,1,0,Common Cold
+0,1,0,0,0,0,1,0,0,1,Common Cold
+1,0,0,0,0,1,0,0,0,1,Common Cold
+0,0,1,0,1,0,0,0,0,1,Common Cold
+1,1,1,0,0,0,0,1,0,1,Dengue
+1,1,0,0,0,1,0,0,0,0,Common Cold
+0,1,1,0,0,0,0,0,0,0,Common Cold
+0,1,0,0,1,0,1,1,0,1,Common Cold
+0,0,1,1,1,1,1,0,0,0,Measles
+0,0,0,0,0,0,1,0,0,1,Common Cold
+1,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,0,0,1,0,0,0,1,0,Common Cold
+0,0,1,1,0,0,0,0,1,1,Common Cold
+0,0,0,1,0,1,0,1,0,1,Common Cold
+0,1,0,1,0,0,0,0,1,0,Flu
+0,0,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,0,0,1,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,1,0,0,1,0,0,0,1,Common Cold
+0,0,1,0,0,0,0,1,0,0,Common Cold
+0,1,0,1,1,0,0,1,0,0,Common Cold
+1,0,1,1,0,0,1,0,1,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,1,0,0,1,1,0,0,0,Common Cold
+1,1,1,0,0,0,0,1,0,0,Common Cold
+0,0,0,1,0,0,0,0,1,0,Common Cold
+0,0,1,0,0,0,0,1,0,1,Dengue
+0,0,0,0,1,1,1,0,0,0,Common Cold
+0,0,0,0,1,0,1,1,1,1,Common Cold
+0,1,1,0,0,1,0,1,0,0,Common Cold
+0,1,0,1,0,0,0,1,0,0,Common Cold
+0,0,0,0,0,1,0,0,1,0,Common Cold
+0,1,0,1,1,0,0,0,0,0,Common Cold
+0,1,1,0,1,0,1,0,0,0,Common Cold
+1,1,0,0,0,0,0,1,0,0,Common Cold
+0,1,0,0,0,0,0,0,1,0,Flu
+0,0,1,1,1,1,0,1,0,0,Measles
+0,0,1,0,0,1,0,1,1,0,Common Cold
+1,0,0,0,0,0,0,0,1,0,Common Cold
+0,1,0,0,0,0,0,1,0,0,Common Cold
+0,0,0,1,0,0,1,0,1,1,Common Cold
+1,1,0,0,1,1,1,0,0,0,COVID-19
+0,1,0,1,1,0,0,0,0,0,Common Cold
+1,0,1,0,0,0,1,0,1,0,Common Cold
+0,1,0,0,0,0,0,1,1,1,Flu
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,1,1,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,1,0,1,Common Cold
+1,1,1,0,0,1,0,0,0,1,Common Cold
+0,1,0,1,0,0,0,1,0,1,Common Cold
+0,0,0,0,0,0,1,0,0,0,Common Cold
+0,0,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+0,1,0,0,1,0,0,1,1,1,Flu
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+0,0,1,0,1,1,0,0,0,0,Common Cold
+0,1,0,0,0,1,0,1,0,0,Common Cold
+0,0,0,1,1,0,0,1,1,1,Common Cold
+1,1,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,1,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+1,0,0,0,0,0,0,1,0,0,Common Cold
+1,1,0,0,0,1,1,1,1,0,COVID-19
+0,0,0,0,0,1,0,0,0,1,Common Cold
+0,1,1,0,0,1,1,1,0,1,Dengue
+1,0,1,0,0,0,1,0,0,1,Common Cold
+0,0,1,0,0,0,0,0,1,0,Common Cold
+0,0,1,1,0,1,0,0,0,1,Common Cold
+0,1,0,1,1,0,0,0,0,1,Common Cold
+0,0,0,0,1,0,0,0,1,1,Common Cold
+1,0,1,1,1,1,0,0,0,0,Measles
+1,0,0,1,0,1,1,0,0,1,Common Cold
+0,0,0,0,1,1,1,0,0,1,Common Cold
+0,0,0,0,0,0,0,1,0,1,Common Cold
+0,1,0,0,0,1,0,0,0,0,Common Cold
+1,1,0,1,0,1,0,0,0,1,Common Cold
+1,1,1,1,0,0,1,1,0,1,COVID-19
+1,1,0,0,0,0,0,1,0,0,Common Cold
+1,0,0,0,0,0,0,1,0,0,Common Cold
+0,1,1,0,1,0,1,0,0,1,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,0,1,0,Common Cold
+1,0,0,1,1,1,0,0,0,0,Measles
+0,0,1,0,0,1,0,1,0,1,Dengue
+0,1,1,1,0,0,1,0,0,0,Common Cold
+0,0,0,1,0,1,0,0,0,0,Common Cold
+0,0,1,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,1,Common Cold
+0,1,1,0,0,0,0,1,0,0,Common Cold
+0,0,1,0,0,1,0,0,0,1,Common Cold
+0,0,1,0,0,0,0,0,1,1,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,1,1,0,0,1,0,0,0,0,Common Cold
+1,0,1,0,0,0,1,0,0,0,Common Cold
+0,0,0,0,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,0,0,0,0,Common Cold
+1,0,0,0,0,1,0,1,0,1,Common Cold
+0,0,1,1,0,0,0,1,0,1,Dengue
+1,0,0,1,0,0,0,1,1,0,Common Cold
+0,1,1,0,0,0,1,1,1,0,Flu
+0,0,0,0,0,0,1,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+0,1,0,0,1,0,0,0,1,0,Flu
+0,0,0,0,0,0,0,1,0,1,Common Cold
+0,0,0,1,1,0,0,1,0,1,Common Cold
+1,0,0,0,0,0,0,1,0,0,Common Cold
+0,0,0,0,0,1,1,0,0,1,Common Cold
+1,1,0,0,0,0,1,1,0,0,COVID-19
+0,0,0,0,0,0,0,0,0,1,Common Cold
+1,1,1,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,0,0,0,Common Cold
+0,0,1,0,0,1,0,0,1,1,Common Cold
+0,0,1,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+1,0,0,0,0,0,1,0,0,0,Common Cold
+0,1,1,0,0,0,0,0,1,0,Flu
+0,0,0,1,1,0,0,1,1,0,Common Cold
+0,1,0,0,1,0,1,0,0,0,Common Cold
+0,0,0,0,0,0,1,0,0,0,Common Cold
+1,1,1,0,0,1,1,1,1,0,COVID-19
+1,1,0,0,0,0,0,1,0,0,Common Cold
+1,1,0,0,1,0,0,0,0,0,Common Cold
+0,1,1,0,0,1,1,0,0,1,Common Cold
+0,1,1,1,0,1,1,0,0,0,Common Cold
+1,0,0,0,1,0,0,0,0,1,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+1,0,1,0,0,1,1,1,0,0,Common Cold
+1,1,0,1,0,0,1,0,1,0,COVID-19
+1,0,0,0,1,0,0,1,1,0,Common Cold
+0,1,0,0,0,0,0,1,1,0,Flu
+0,0,1,0,0,1,0,1,1,0,Common Cold
+1,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,0,1,0,0,Common Cold
+0,0,1,0,0,1,0,0,0,1,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+1,0,0,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+0,0,0,0,0,0,1,1,0,1,Common Cold
+0,0,0,1,0,1,0,0,1,0,Common Cold
+0,0,1,0,0,0,0,0,0,0,Common Cold
+1,1,0,0,1,1,1,0,0,0,COVID-19
+0,0,1,0,0,0,0,0,1,0,Common Cold
+0,0,0,0,0,0,1,0,0,0,Common Cold
+1,0,0,1,0,1,1,1,1,1,Common Cold
+1,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,0,0,0,Common Cold
+1,0,1,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,1,1,0,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+1,0,0,0,0,0,0,0,0,0,Common Cold
+1,1,0,0,1,0,1,1,0,0,COVID-19
+1,1,0,1,0,0,0,0,0,0,Common Cold
+1,0,0,0,0,1,0,0,0,0,Common Cold
+0,0,1,1,0,0,0,0,0,1,Common Cold
+0,0,0,1,0,0,0,1,1,0,Common Cold
+1,0,1,1,0,0,0,0,0,0,Common Cold
+0,1,0,0,0,0,0,0,0,0,Common Cold
+1,0,0,0,0,1,1,1,0,0,Common Cold
+1,0,0,1,0,0,0,0,0,0,Common Cold
+1,0,0,0,0,1,1,0,0,0,Common Cold
+0,1,0,0,1,0,0,0,1,1,Flu
+0,0,0,1,0,0,1,0,1,1,Common Cold
+0,0,0,1,0,1,1,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,0,0,1,0,0,1,1,Common Cold
+0,0,1,0,1,1,1,0,0,0,Common Cold
+0,0,0,1,0,0,0,0,0,1,Common Cold
+0,0,0,1,0,0,1,1,0,0,Common Cold
+0,0,0,0,1,1,0,1,0,0,Common Cold
+0,0,0,0,0,0,0,1,1,0,Common Cold
+0,0,0,1,0,0,0,0,0,0,Common Cold
+1,0,0,0,0,0,1,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+0,1,0,1,0,1,1,0,1,1,Flu
+0,0,0,0,0,0,1,1,1,1,Common Cold
+1,0,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,0,0,0,1,0,0,1,Common Cold
+0,1,0,1,0,0,0,0,1,0,Flu
+0,0,1,0,0,1,1,0,1,0,Common Cold
+0,1,0,1,1,0,0,0,0,0,Common Cold
+0,0,0,0,1,1,0,0,1,1,Common Cold
+0,0,0,0,0,1,1,1,0,0,Common Cold
+1,1,1,0,1,0,0,0,0,1,Common Cold
+1,1,0,0,0,0,0,1,0,0,Common Cold
+0,1,0,0,0,0,0,1,0,0,Common Cold
+0,1,0,0,0,0,0,0,0,1,Common Cold
+1,0,0,0,1,1,0,1,0,0,Common Cold
+0,1,0,0,1,1,1,0,0,0,Common Cold
+0,0,0,1,0,0,0,1,0,0,Common Cold
+0,1,1,0,1,0,0,0,0,0,Common Cold
+0,0,0,1,0,1,0,0,0,1,Common Cold
+1,1,1,0,1,1,0,0,0,0,Common Cold
+1,0,1,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,1,0,0,Common Cold
+0,0,0,0,1,0,1,0,1,1,Common Cold
+0,1,0,0,0,1,0,0,1,0,Flu
+0,0,0,1,0,0,0,0,1,0,Common Cold
+0,0,0,1,0,0,0,1,0,1,Common Cold
+0,0,1,0,0,0,0,0,0,0,Common Cold
+1,0,1,0,1,0,0,0,0,1,Common Cold
+0,1,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,1,0,0,Common Cold
+1,1,1,1,1,0,0,0,0,0,Common Cold
+1,0,1,1,1,0,0,0,1,1,Common Cold
+0,0,1,1,0,0,1,0,0,1,Common Cold
+0,1,0,0,1,0,0,1,1,0,Flu
+0,0,0,0,0,0,0,0,1,0,Common Cold
+0,0,0,0,1,0,0,0,0,1,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+1,1,0,1,0,0,1,1,0,1,COVID-19
+0,0,0,0,0,0,0,1,1,0,Common Cold
+0,1,0,0,0,0,0,0,0,1,Common Cold
+0,1,0,1,0,1,0,0,1,0,Flu
+0,0,0,1,0,1,1,0,0,0,Common Cold
+1,0,0,1,0,0,0,0,1,0,Common Cold
+1,0,0,1,1,0,0,0,0,1,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+0,0,1,1,0,1,0,1,1,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,1,0,0,1,0,0,0,0,1,Common Cold
+0,1,0,0,1,0,1,0,0,1,Common Cold
+0,1,1,0,0,1,0,0,1,0,Flu
+0,0,0,1,0,0,0,0,1,1,Common Cold
+0,0,0,0,1,0,0,0,1,1,Common Cold
+0,0,0,0,0,0,1,0,0,1,Common Cold
+0,1,0,0,1,0,0,1,0,0,Common Cold
+0,0,0,0,0,0,1,1,0,1,Common Cold
+0,1,0,0,1,1,0,0,1,0,Flu
+1,0,1,0,0,1,0,0,0,0,Common Cold
+0,0,0,1,0,0,0,0,1,1,Common Cold
+0,1,1,0,1,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,1,0,0,0,Common Cold
+0,1,0,0,0,0,1,1,0,1,Common Cold
+0,1,1,0,0,0,0,1,0,1,Dengue
+0,0,0,0,0,1,0,1,0,0,Common Cold
+1,0,0,1,0,1,1,0,0,1,Common Cold
+0,0,0,0,0,0,0,1,0,0,Common Cold
+0,1,0,1,0,0,0,1,1,0,Flu
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,1,0,0,Common Cold
+1,1,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,1,0,Common Cold
+1,1,0,0,0,0,0,0,0,0,Common Cold
+1,1,0,0,0,0,0,0,1,1,Flu
+0,0,0,0,0,1,0,0,0,1,Common Cold
+0,0,1,0,0,0,1,1,0,0,Common Cold
+0,1,0,0,0,0,0,0,0,1,Common Cold
+0,0,1,0,0,0,0,0,0,0,Common Cold
+0,1,0,0,0,0,1,0,0,0,Common Cold
+0,0,0,0,0,1,1,0,1,1,Common Cold
+0,0,0,1,0,0,0,0,0,0,Common Cold
+0,1,0,1,0,1,0,0,0,0,Common Cold
+1,0,0,1,0,0,1,0,0,0,Common Cold
+0,0,1,0,1,0,1,0,0,0,Common Cold
+1,0,0,0,0,1,1,0,0,1,Common Cold
+0,0,1,0,0,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,0,0,0,0,Common Cold
+0,1,1,0,0,0,0,1,0,0,Common Cold
+1,0,0,0,0,0,0,0,1,0,Common Cold
+1,0,0,0,1,0,0,0,0,0,Common Cold
+1,0,0,1,0,0,0,0,0,1,Common Cold
+0,1,0,0,1,0,0,0,1,1,Flu
+0,0,0,0,0,1,1,1,0,0,Common Cold
+1,1,1,0,0,0,0,0,0,0,Common Cold
+1,0,0,0,0,1,0,0,0,0,Common Cold
+1,0,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,1,0,0,0,0,0,1,Common Cold
+0,0,0,1,0,1,1,1,1,0,Common Cold
+1,0,0,0,0,0,0,0,1,1,Common Cold
+0,0,1,1,1,1,1,0,1,0,Measles
+1,1,0,1,1,0,0,0,1,0,Flu
+1,0,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,1,0,0,0,1,0,0,Common Cold
+1,0,0,0,0,0,0,0,1,0,Common Cold
+1,1,0,0,0,1,1,0,1,0,COVID-19
+0,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,0,0,0,1,1,0,1,0,Common Cold
+0,0,0,1,0,1,0,0,0,0,Common Cold
+1,1,0,0,0,0,1,0,0,0,COVID-19
+0,0,0,1,1,0,0,0,0,0,Common Cold
+1,0,0,1,0,1,1,0,0,0,Common Cold
+0,1,0,1,1,1,0,0,0,0,Measles
+0,1,0,1,0,0,0,1,0,0,Common Cold
+1,0,1,0,0,0,0,0,0,0,Common Cold
+0,1,0,0,0,0,1,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,0,0,0,0,0,0,1,0,Common Cold
+1,0,0,0,0,1,1,0,0,1,Common Cold
+0,0,0,0,0,0,0,1,0,0,Common Cold
+0,0,0,1,0,0,0,0,0,0,Common Cold
+0,1,1,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+0,0,0,0,0,0,1,0,0,0,Common Cold
+0,0,0,0,0,0,1,0,1,0,Common Cold
+1,1,0,0,0,0,0,1,0,0,Common Cold
+1,0,0,1,0,0,1,0,0,1,Common Cold
+1,0,0,0,1,0,0,0,0,0,Common Cold
+0,0,1,1,0,1,0,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+0,1,0,1,0,0,0,0,0,1,Common Cold
+0,1,1,0,0,0,0,0,0,1,Common Cold
+0,0,0,0,0,1,1,0,0,0,Common Cold
+1,1,1,0,0,0,1,0,1,1,COVID-19
+0,0,0,1,0,0,0,0,0,0,Common Cold
+0,1,1,0,1,1,0,0,0,1,Common Cold
+0,0,0,0,0,0,1,0,0,1,Common Cold
+1,0,1,1,0,0,1,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,0,1,Common Cold
+0,0,0,0,1,0,0,0,1,0,Common Cold
+0,0,1,1,0,0,1,0,1,0,Common Cold
+1,0,0,0,0,1,0,1,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+1,1,0,0,1,1,0,0,0,0,Common Cold
+1,0,0,1,1,0,0,0,0,0,Common Cold
+0,0,0,1,0,1,0,0,0,1,Common Cold
+0,1,0,0,1,0,0,0,0,0,Common Cold
+1,0,0,0,1,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,1,0,0,0,Common Cold
+0,0,1,1,0,1,0,0,0,0,Common Cold
+1,1,0,1,0,0,0,0,0,0,Common Cold
+1,0,0,0,1,0,0,1,0,0,Common Cold
+1,0,0,1,0,0,1,0,0,1,Common Cold
+1,1,0,1,1,0,0,0,1,1,Flu
+0,1,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,1,0,Common Cold
+1,0,0,0,0,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,0,0,0,Common Cold
+0,1,0,0,1,0,0,0,0,0,Common Cold
+1,0,0,0,1,0,0,0,0,0,Common Cold
+0,0,0,1,1,1,1,1,1,1,Measles
+0,1,0,0,0,0,0,1,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,0,0,1,0,0,1,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,0,1,0,0,1,0,0,1,0,Common Cold
+0,0,1,0,0,0,0,0,1,0,Common Cold
+1,0,0,0,1,0,1,1,0,1,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+1,1,0,0,0,0,1,0,1,1,COVID-19
+0,0,0,1,0,0,0,0,0,1,Common Cold
+0,1,0,0,0,1,0,1,0,1,Common Cold
+1,0,0,0,0,1,0,0,0,1,Common Cold
+0,1,0,1,1,1,1,0,0,0,Measles
+1,1,0,0,1,0,1,0,0,0,COVID-19
+0,0,0,0,1,0,0,1,0,0,Common Cold
+1,1,1,1,1,0,1,0,0,0,COVID-19
+0,1,1,0,0,0,0,1,0,1,Dengue
+1,0,1,0,0,1,1,0,0,0,Common Cold
+0,0,0,1,0,0,1,0,1,1,Common Cold
+1,0,1,1,0,0,1,0,1,1,Common Cold
+0,1,0,1,0,0,0,0,0,1,Common Cold
+0,1,1,0,0,0,0,0,0,1,Common Cold
+1,1,0,0,0,1,0,1,0,0,Common Cold
+0,0,1,0,0,0,0,0,1,0,Common Cold
+0,1,0,0,0,1,0,0,0,0,Common Cold
+0,0,1,0,0,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,0,0,1,0,Common Cold
+0,0,0,1,0,1,0,0,1,1,Common Cold
+0,0,0,0,0,0,0,0,1,1,Common Cold
+1,0,1,0,1,1,0,0,1,0,Common Cold
+0,0,0,0,0,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,0,1,0,0,Common Cold
+1,0,0,0,1,0,0,0,0,0,Common Cold
+1,0,0,0,0,1,1,1,0,0,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,0,1,1,0,0,0,0,0,0,Common Cold
+0,0,0,1,1,0,0,0,1,0,Common Cold
+0,0,0,0,1,0,1,1,0,0,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+0,0,0,1,0,0,0,0,1,0,Common Cold
+0,0,1,1,0,1,0,1,0,0,Common Cold
+1,0,1,0,0,0,0,0,0,1,Common Cold
+1,1,0,1,0,0,1,0,0,0,COVID-19
+0,0,1,0,0,0,0,0,0,0,Common Cold
+0,0,1,1,0,0,0,1,0,1,Dengue
+0,0,0,1,0,0,0,0,0,0,Common Cold
+1,0,1,0,0,0,0,0,1,1,Common Cold
+0,0,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,1,1,0,Common Cold
+1,0,1,1,1,0,1,0,0,0,Common Cold
+1,0,0,0,0,0,1,0,0,0,Common Cold
+1,0,1,1,0,0,1,0,1,0,Common Cold
+1,1,1,0,1,0,0,1,0,0,Common Cold
+0,1,0,0,0,0,0,1,0,0,Common Cold
+0,1,1,0,0,1,1,1,0,0,Common Cold
+1,1,0,1,0,1,1,0,1,0,COVID-19
+1,0,0,1,0,1,1,0,0,0,Common Cold
+0,0,0,1,0,0,0,0,0,0,Common Cold
+0,0,1,1,0,1,0,1,0,0,Common Cold
+0,0,0,0,0,1,1,0,1,0,Common Cold
+1,1,0,0,1,1,1,0,1,1,COVID-19
+1,0,0,0,0,0,1,1,0,0,Common Cold
+0,1,1,0,0,0,0,0,1,0,Flu
+0,0,0,0,1,1,0,0,0,0,Common Cold
+0,1,0,0,0,0,0,0,0,0,Common Cold
+1,0,0,0,1,0,1,0,0,1,Common Cold
+1,0,0,0,0,0,0,1,0,0,Common Cold
+1,0,1,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,0,0,0,Common Cold
+0,0,0,1,1,0,0,0,0,1,Common Cold
+0,0,1,1,1,0,1,0,1,0,Common Cold
+0,1,0,1,0,0,0,0,0,1,Common Cold
+1,0,1,0,0,0,1,0,0,1,Common Cold
+1,0,0,0,0,0,0,0,1,0,Common Cold
+1,0,1,1,0,0,1,0,0,1,Common Cold
+1,1,0,0,0,0,1,0,0,0,COVID-19
+0,0,0,0,0,1,0,0,1,1,Common Cold
+1,0,1,0,0,0,0,1,0,0,Common Cold
+1,0,1,0,0,0,0,1,0,0,Common Cold
+1,0,1,0,0,0,0,1,0,0,Common Cold
+0,0,0,0,0,1,1,0,1,1,Common Cold
+0,0,1,0,0,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,0,0,1,0,Common Cold
+1,1,0,0,0,0,0,0,0,0,Common Cold
+0,0,1,1,0,0,1,0,0,0,Common Cold
+0,0,1,0,0,1,1,0,1,0,Common Cold
+0,0,0,0,0,1,0,1,0,0,Common Cold
+0,1,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+0,1,0,0,0,0,0,1,1,0,Flu
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,1,0,0,Common Cold
+1,0,0,0,1,0,0,1,0,1,Common Cold
+0,1,0,1,1,0,0,1,1,0,Flu
+1,0,0,0,0,0,0,0,0,1,Common Cold
+0,1,1,0,0,1,0,0,0,1,Common Cold
+0,1,1,0,1,0,0,0,0,0,Common Cold
+1,0,0,0,0,1,1,0,0,0,Common Cold
+0,0,1,0,0,1,1,0,0,1,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+1,1,0,0,1,0,1,0,1,0,COVID-19
+0,1,0,0,1,0,1,1,1,0,Flu
+1,0,1,0,1,0,0,1,0,1,Dengue
+0,0,1,1,0,1,0,0,1,0,Common Cold
+0,1,0,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,1,1,0,Common Cold
+0,1,0,0,0,1,0,0,0,0,Common Cold
+0,0,0,1,1,0,0,1,0,0,Common Cold
+0,0,0,0,0,0,0,1,1,0,Common Cold
+0,0,0,0,0,1,0,0,1,1,Common Cold
+1,0,1,1,0,1,0,1,0,0,Common Cold
+0,0,1,1,1,1,0,0,0,1,Measles
+0,0,0,0,0,1,0,0,0,0,Common Cold
+1,0,1,0,0,0,0,0,0,0,Common Cold
+0,1,0,1,0,1,0,0,0,0,Common Cold
+0,1,0,1,1,0,1,1,0,0,Common Cold
+1,0,0,1,1,0,0,0,1,0,Common Cold
+1,0,0,0,0,0,1,0,0,0,Common Cold
+0,0,1,0,0,0,1,0,0,1,Common Cold
+1,0,0,0,0,1,0,1,0,1,Common Cold
+0,0,0,1,1,1,0,1,0,0,Measles
+0,0,0,0,0,0,0,1,0,0,Common Cold
+0,0,0,0,1,0,1,0,0,0,Common Cold
+1,0,1,1,0,0,1,0,1,0,Common Cold
+0,0,0,0,1,1,1,0,1,0,Common Cold
+0,0,0,1,1,1,0,0,0,0,Measles
+0,1,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,0,1,0,0,0,0,1,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+0,0,0,1,0,0,0,1,1,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,1,1,0,1,0,1,0,0,1,Common Cold
+0,0,1,1,0,0,0,0,1,0,Common Cold
+0,1,1,0,0,0,0,1,0,0,Common Cold
+0,0,0,0,0,0,0,1,0,1,Common Cold
+0,0,0,0,0,1,1,1,1,0,Common Cold
+1,1,0,0,0,0,1,0,1,0,COVID-19
+0,0,1,0,0,0,0,1,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,1,0,0,Common Cold
+0,1,0,0,0,1,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,1,1,Common Cold
+0,0,1,0,1,0,0,0,1,0,Common Cold
+0,0,0,0,0,0,1,1,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,1,Common Cold
+0,0,0,1,1,1,0,0,0,1,Measles
+0,1,0,0,0,1,0,0,0,0,Common Cold
+0,0,1,1,1,0,1,0,0,0,Common Cold
+0,0,0,1,0,0,0,0,1,1,Common Cold
+0,1,1,0,0,0,1,0,0,0,Common Cold
+1,0,0,0,0,0,1,0,1,0,Common Cold
+0,0,0,0,0,1,0,1,1,1,Common Cold
+0,0,1,1,0,0,0,0,0,0,Common Cold
+1,0,0,0,0,0,0,0,0,1,Common Cold
+1,0,0,0,0,1,1,0,1,1,Common Cold
+0,1,0,0,1,1,0,0,1,0,Flu
+0,0,0,1,1,0,0,1,0,1,Common Cold
+1,0,1,1,0,0,0,1,0,1,Dengue
+1,1,0,0,1,0,1,0,0,0,COVID-19
+0,0,1,0,1,0,0,1,1,0,Common Cold
+0,0,1,0,1,1,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,1,1,1,0,1,0,0,1,1,Flu
+0,0,0,0,1,0,1,0,0,0,Common Cold
+0,0,1,0,0,1,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,1,0,0,Common Cold
+1,0,0,1,0,0,0,0,1,1,Common Cold
+0,0,0,1,0,0,0,1,0,0,Common Cold
+0,0,0,0,0,0,0,1,0,0,Common Cold
+1,1,0,1,0,1,0,0,0,0,Common Cold
+1,0,1,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+0,1,0,0,1,0,0,1,0,0,Common Cold
+0,1,1,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,1,0,Common Cold
+0,0,1,1,0,0,1,0,1,1,Common Cold
+0,0,1,0,0,1,0,0,0,0,Common Cold
+0,1,1,0,1,0,0,0,0,0,Common Cold
+0,1,1,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,1,0,1,0,1,0,Common Cold
+0,1,0,1,0,1,1,0,0,0,Common Cold
+0,0,1,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,0,0,0,Common Cold
+0,0,0,1,1,0,0,0,0,0,Common Cold
+1,1,0,0,1,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,1,0,0,1,Common Cold
+0,1,0,0,0,1,1,0,0,0,Common Cold
+1,1,0,0,1,0,0,0,1,0,Flu
+0,1,0,1,0,0,1,0,0,0,Common Cold
+0,0,0,1,0,1,0,0,0,0,Common Cold
+0,0,0,0,1,0,1,0,0,0,Common Cold
+0,0,0,1,0,0,0,0,0,0,Common Cold
+1,0,0,0,1,0,0,1,0,0,Common Cold
+0,0,1,0,0,0,0,1,0,0,Common Cold
+0,1,0,0,0,0,0,1,0,0,Common Cold
+0,0,1,0,1,0,0,1,0,1,Dengue
+0,0,1,0,0,1,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,0,0,1,1,0,0,0,1,1,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,1,0,0,0,0,0,0,0,Common Cold
+0,1,0,0,0,1,0,1,0,0,Common Cold
+0,0,0,0,1,0,1,0,0,0,Common Cold
+0,1,0,0,1,0,1,0,0,0,Common Cold
+0,1,0,0,1,1,1,0,0,1,Common Cold
+0,0,0,1,0,1,0,0,1,0,Common Cold
+0,1,0,0,1,1,1,0,0,0,Common Cold
+0,0,1,0,0,0,0,1,0,1,Dengue
+0,1,0,0,0,1,0,0,1,1,Flu
+0,0,0,0,0,1,0,1,1,0,Common Cold
+1,1,0,0,1,0,1,0,0,0,COVID-19
+0,1,1,1,1,0,0,1,0,0,Common Cold
+0,1,0,0,0,0,0,0,0,0,Common Cold
+0,1,1,0,0,1,0,0,0,0,Common Cold
+1,0,0,0,1,0,1,0,0,0,Common Cold
+0,0,0,0,0,0,0,1,0,1,Common Cold
+0,0,0,0,1,0,0,1,1,0,Common Cold
+1,0,0,1,0,1,0,0,0,0,Common Cold
+1,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,0,1,0,0,0,1,0,0,Common Cold
+0,1,1,0,0,0,0,0,1,0,Flu
+0,0,0,1,1,1,1,0,0,0,Measles
+0,1,0,0,0,0,0,0,0,1,Common Cold
+1,0,0,0,1,0,0,0,0,0,Common Cold
+0,1,0,0,0,1,0,1,0,0,Common Cold
+0,1,0,1,0,0,0,1,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+1,0,0,0,0,0,0,0,0,0,Common Cold
+0,1,0,0,1,0,0,1,0,1,Common Cold
+0,0,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,0,0,0,0,1,0,0,Common Cold
+0,0,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,0,0,1,Common Cold
+0,0,1,0,0,1,0,1,0,0,Common Cold
+0,0,0,0,1,0,1,0,0,0,Common Cold
+0,0,0,1,0,0,0,0,1,0,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,1,1,1,0,1,1,0,0,0,Common Cold
+0,0,1,0,1,0,0,0,0,1,Common Cold
+0,1,0,0,0,0,0,1,1,1,Flu
+0,0,1,0,0,0,1,1,1,0,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,1,0,0,0,0,0,1,Common Cold
+0,0,1,1,0,1,0,0,0,0,Common Cold
+1,0,1,1,0,0,1,0,0,0,Common Cold
+0,0,0,1,1,1,1,0,1,0,Measles
+1,0,0,0,0,0,0,1,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+0,0,0,1,0,1,1,1,1,0,Common Cold
+1,0,1,0,0,0,0,0,1,0,Common Cold
+0,0,0,1,0,1,0,0,0,1,Common Cold
+0,1,0,1,0,0,1,0,0,0,Common Cold
+0,0,0,0,1,1,1,0,0,0,Common Cold
+0,0,0,1,0,0,1,0,1,0,Common Cold
+1,1,0,0,0,0,0,1,1,0,Flu
+1,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,1,0,1,0,0,1,0,0,Common Cold
+0,1,1,0,0,0,0,0,1,0,Flu
+1,0,0,0,1,0,0,1,0,1,Common Cold
+1,0,1,0,0,0,1,0,0,1,Common Cold
+0,0,1,1,0,0,0,1,1,0,Common Cold
+0,0,1,1,0,1,1,0,0,1,Common Cold
+1,0,0,0,0,0,0,1,0,1,Common Cold
+0,0,0,0,0,0,0,1,1,0,Common Cold
+1,0,0,1,0,0,0,0,1,1,Common Cold
+0,0,0,0,1,0,0,0,0,1,Common Cold
+1,1,0,0,1,0,0,0,0,0,Common Cold
+0,1,0,0,1,0,1,1,0,0,Common Cold
+0,0,0,0,0,1,1,0,0,0,Common Cold
+0,0,1,0,0,1,0,0,0,0,Common Cold
+1,0,0,1,0,0,0,0,1,1,Common Cold
+0,0,0,0,1,0,1,0,0,0,Common Cold
+0,0,1,0,1,0,0,1,0,1,Dengue
+0,0,1,0,0,0,0,0,0,1,Common Cold
+1,1,1,0,0,0,0,0,1,0,Flu
+0,0,1,0,0,0,1,1,0,0,Common Cold
+1,0,0,1,0,0,0,0,0,0,Common Cold
+0,0,1,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,0,0,0,Common Cold
+0,1,0,1,1,1,0,0,0,0,Measles
+0,1,0,1,0,0,0,0,0,0,Common Cold
+1,1,0,1,0,1,0,1,0,1,Common Cold
+0,0,0,0,1,1,1,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,1,0,0,0,1,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,0,0,1,0,1,0,0,Common Cold
+1,1,1,0,0,1,1,0,0,0,COVID-19
+0,0,0,1,1,0,0,0,0,1,Common Cold
+0,0,0,1,0,0,0,0,0,0,Common Cold
+1,0,0,1,0,1,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,1,Common Cold
+0,1,1,0,1,1,0,0,1,0,Flu
+1,1,0,0,1,0,0,1,1,0,Flu
+0,1,0,0,0,0,1,0,0,0,Common Cold
+0,0,1,0,1,0,0,1,0,1,Dengue
+1,0,1,0,0,0,1,1,0,0,Common Cold
+1,0,0,1,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,1,Common Cold
+0,1,0,1,1,1,0,0,0,0,Measles
+0,0,0,0,1,1,0,0,0,1,Common Cold
+1,0,0,0,0,0,0,1,1,1,Common Cold
+0,0,0,0,0,1,1,0,0,1,Common Cold
+0,0,1,0,1,1,1,0,1,0,Common Cold
+1,1,0,0,1,0,1,0,1,0,COVID-19
+1,0,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,0,1,0,1,0,0,1,Common Cold
+1,0,0,0,0,1,0,1,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+1,1,0,1,0,1,1,1,0,0,COVID-19
+0,1,1,0,0,0,0,0,0,0,Common Cold
+0,1,0,1,1,1,0,0,0,0,Measles
+1,1,0,0,0,0,0,0,1,1,Flu
+0,0,0,1,1,0,0,0,0,0,Common Cold
+0,0,0,1,0,0,1,0,1,0,Common Cold
+1,0,0,0,0,0,0,1,0,1,Common Cold
+1,0,0,0,0,1,1,1,1,0,Common Cold
+0,1,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,1,1,0,0,0,0,0,1,0,Flu
+0,0,1,0,0,0,0,1,0,0,Common Cold
+0,0,1,1,0,0,0,0,0,1,Common Cold
+0,0,1,1,0,0,1,1,0,0,Common Cold
+1,1,0,0,0,1,1,0,0,1,COVID-19
+0,0,1,0,1,0,1,0,0,0,Common Cold
+0,0,0,0,1,1,1,1,1,0,Common Cold
+0,0,1,0,0,1,1,0,0,0,Common Cold
+1,0,1,1,0,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,1,0,1,0,Common Cold
+0,1,1,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,0,0,1,0,1,0,0,1,0,Common Cold
+0,0,0,0,0,0,0,1,0,0,Common Cold
+1,0,0,0,0,1,0,0,0,0,Common Cold
+1,1,0,0,0,0,1,1,0,1,COVID-19
+0,0,0,0,1,1,0,0,0,0,Common Cold
+0,0,1,0,0,1,0,0,0,0,Common Cold
+1,0,0,0,0,0,0,0,0,1,Common Cold
+1,1,1,0,0,0,0,0,1,1,Flu
+0,1,1,1,0,0,0,0,0,0,Common Cold
+0,0,1,1,1,0,0,1,0,0,Common Cold
+0,0,1,1,0,1,0,0,1,0,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+1,1,1,1,0,0,1,0,1,1,COVID-19
+1,0,1,0,0,0,1,1,0,1,Dengue
+1,0,0,0,1,1,0,1,1,0,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,0,1,0,1,0,0,0,0,0,Common Cold
+1,0,0,0,0,0,1,0,0,0,Common Cold
+1,1,0,0,1,1,0,0,0,1,Common Cold
+0,0,0,0,0,1,0,0,1,0,Common Cold
+1,0,0,0,0,0,1,0,0,1,Common Cold
+1,0,0,0,1,0,0,0,0,1,Common Cold
+0,1,1,0,1,0,0,0,1,0,Flu
+0,0,0,0,1,0,0,0,0,0,Common Cold
+0,1,0,1,1,0,1,1,0,0,Common Cold
+0,0,0,1,1,1,1,1,0,0,Measles
+0,0,0,0,0,0,1,0,0,0,Common Cold
+1,0,1,0,0,1,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,1,1,Common Cold
+0,0,0,1,0,1,1,0,0,0,Common Cold
+0,1,0,0,0,1,1,1,0,0,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+1,0,1,0,0,0,1,1,0,1,Dengue
+0,0,1,0,0,0,0,1,0,0,Common Cold
+0,1,0,0,0,0,0,0,0,0,Common Cold
+1,1,0,1,0,0,0,0,0,1,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,1,0,0,1,1,1,0,0,0,Common Cold
+0,0,0,1,1,0,0,0,0,1,Common Cold
+0,0,0,1,0,1,0,0,1,0,Common Cold
+0,1,0,0,0,0,1,1,0,1,Common Cold
+0,1,0,0,0,1,1,0,1,0,Flu
+0,0,1,0,0,0,0,0,0,0,Common Cold
+1,0,1,1,0,1,0,0,0,1,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,1,1,1,0,0,0,0,1,1,Flu
+0,0,0,0,0,0,1,1,0,1,Common Cold
+0,0,0,0,1,0,1,0,0,1,Common Cold
+0,0,1,0,1,0,0,0,1,1,Common Cold
+0,0,1,0,0,0,0,0,0,0,Common Cold
+1,0,1,0,0,0,0,0,1,1,Common Cold
+0,1,0,0,0,1,1,1,0,0,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+0,0,1,1,1,0,0,1,1,1,Dengue
+1,0,0,0,0,1,0,0,0,0,Common Cold
+0,1,0,1,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,1,0,Common Cold
+1,1,0,0,0,1,1,0,0,1,COVID-19
+0,1,0,0,1,1,1,1,0,0,Common Cold
+1,1,1,1,0,1,1,0,0,0,COVID-19
+0,1,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,1,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+0,1,0,0,1,0,1,0,0,0,Common Cold
+0,1,0,1,1,0,0,0,0,0,Common Cold
+1,1,1,1,0,0,0,0,0,1,Common Cold
+0,0,0,0,1,0,1,0,1,0,Common Cold
+0,0,1,0,0,0,1,0,1,1,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,1,0,0,0,1,0,0,0,0,Common Cold
+0,1,0,0,0,0,0,1,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,0,1,0,0,0,0,0,0,0,Common Cold
+1,0,0,0,0,1,0,0,0,1,Common Cold
+1,1,0,0,1,0,1,0,0,0,COVID-19
+0,1,1,0,0,0,0,1,1,0,Flu
+0,0,1,0,0,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,0,1,0,0,Common Cold
+0,1,0,1,0,1,0,1,0,0,Common Cold
+0,1,1,0,0,0,1,0,1,0,Flu
+0,0,0,0,0,0,0,0,0,0,Common Cold
+1,0,0,0,0,1,0,0,0,0,Common Cold
+0,0,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,0,0,1,Common Cold
+0,0,0,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,1,0,0,0,Common Cold
+0,1,1,1,0,0,0,0,0,0,Common Cold
+0,0,0,1,1,0,0,0,0,0,Common Cold
+0,1,0,0,0,1,0,1,0,1,Common Cold
+1,0,0,1,0,0,1,0,1,0,Common Cold
+0,0,1,1,1,0,1,1,0,0,Common Cold
+0,0,0,1,0,0,0,0,1,1,Common Cold
+0,0,0,0,0,1,0,0,0,1,Common Cold
+0,1,1,0,0,1,0,0,0,0,Common Cold
+0,1,1,0,0,0,0,0,0,0,Common Cold
+1,0,0,1,0,1,0,0,0,1,Common Cold
+1,0,0,0,0,0,1,0,1,0,Common Cold
+1,1,1,0,0,0,1,1,1,1,COVID-19
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,1,0,0,0,0,0,1,Common Cold
+0,1,1,1,0,0,1,1,0,0,Common Cold
+0,0,0,0,0,1,1,1,0,1,Common Cold
+1,0,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,1,Common Cold
+0,1,0,1,1,0,0,1,1,0,Flu
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,0,1,0,0,0,0,0,1,0,Common Cold
+0,1,0,1,0,0,0,0,1,0,Flu
+0,0,0,0,0,0,0,1,1,0,Common Cold
+0,1,0,1,1,0,0,0,0,1,Common Cold
+1,0,0,0,0,0,0,1,0,0,Common Cold
+1,1,1,0,1,0,0,0,0,1,Common Cold
+0,0,0,0,0,1,1,1,0,0,Common Cold
+0,0,0,0,1,0,1,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+0,0,0,0,1,0,0,1,1,0,Common Cold
+0,1,0,0,0,1,1,0,1,1,Flu
+0,1,1,0,0,1,0,0,1,0,Flu
+0,0,1,1,0,0,0,0,0,0,Common Cold
+0,0,0,1,0,0,0,0,0,0,Common Cold
+0,1,0,0,1,0,0,0,0,1,Common Cold
+0,1,1,1,0,1,0,0,0,0,Common Cold
+1,0,1,0,0,0,1,0,1,0,Common Cold
+1,0,0,0,1,0,0,0,0,0,Common Cold
+0,0,0,1,0,0,0,0,0,0,Common Cold
+1,0,0,1,1,0,1,0,0,0,Common Cold
+0,0,1,0,1,1,0,1,0,1,Dengue
+1,0,1,1,0,0,0,0,0,0,Common Cold
+1,0,0,0,1,0,0,0,1,0,Common Cold
+0,1,0,1,0,0,0,1,0,0,Common Cold
+0,0,1,0,0,1,0,0,0,0,Common Cold
+0,0,1,0,0,1,0,1,0,0,Common Cold
+0,0,1,0,0,0,0,1,0,1,Dengue
+0,0,1,0,1,0,0,1,0,1,Dengue
+0,0,0,0,1,1,0,0,1,1,Common Cold
+0,0,0,1,0,0,0,1,0,1,Common Cold
+1,0,0,0,0,0,0,1,0,0,Common Cold
+1,0,0,0,1,0,0,0,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,0,1,0,0,0,1,0,0,0,Common Cold
+0,1,0,0,0,1,0,0,0,0,Common Cold
+0,0,1,0,1,0,0,0,0,0,Common Cold
+1,1,0,0,0,0,1,0,1,0,COVID-19
+0,0,1,0,1,0,0,0,0,1,Common Cold
+0,0,0,0,1,0,0,0,0,1,Common Cold
+0,0,0,1,0,0,1,0,0,1,Common Cold
+0,0,0,1,0,0,1,0,0,0,Common Cold
+0,1,0,0,1,0,0,1,1,0,Flu
+1,1,1,0,0,1,0,0,1,0,Flu
+0,1,1,0,1,1,0,0,0,0,Common Cold
+0,0,0,0,1,0,1,0,1,0,Common Cold
+0,0,0,0,0,0,0,0,1,0,Common Cold
+1,0,0,0,1,0,0,1,1,0,Common Cold
+1,0,0,0,1,0,1,1,0,0,Common Cold
+0,0,1,0,1,1,0,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,0,0,Common Cold
+0,0,0,1,0,0,0,0,1,0,Common Cold
+0,0,1,1,0,1,0,0,0,0,Common Cold
+1,1,0,0,0,0,0,0,0,0,Common Cold
+0,1,1,0,0,0,1,1,0,0,Common Cold
+0,1,0,1,1,0,0,0,0,0,Common Cold
+0,0,1,1,0,0,0,0,0,1,Common Cold
+0,0,1,0,0,0,0,1,1,1,Dengue
+0,0,0,0,0,1,1,0,0,0,Common Cold
+1,1,1,0,1,1,1,0,1,0,COVID-19
+0,0,0,0,0,0,0,1,0,0,Common Cold
+0,0,0,0,0,1,0,0,0,0,Common Cold
+0,1,0,0,0,0,1,0,0,0,Common Cold
+0,0,1,0,1,1,0,0,0,0,Common Cold
+0,0,1,0,0,0,0,0,0,0,Common Cold
+0,0,1,1,0,1,0,0,0,0,Common Cold
+1,0,1,0,1,1,1,0,0,1,Common Cold
+0,0,0,0,1,0,0,0,1,0,Common Cold
+0,0,1,0,1,1,0,0,0,1,Common Cold
+0,0,0,0,0,1,0,1,0,0,Common Cold
+0,0,0,1,0,1,0,1,0,0,Common Cold
+1,1,0,0,1,0,0,0,0,1,Common Cold
+1,0,1,0,0,1,0,0,0,1,Common Cold
+0,0,1,1,1,1,0,1,0,0,Measles
+0,0,0,0,0,0,0,0,0,0,Common Cold
+0,1,0,1,0,1,0,0,0,0,Common Cold
+0,0,1,0,0,0,1,1,0,0,Common Cold
+0,0,0,0,0,0,1,1,1,1,Common Cold
+0,1,1,0,0,0,1,1,0,1,Dengue
+0,1,1,0,0,0,0,1,0,0,Common Cold
+0,0,0,1,1,0,0,0,1,0,Common Cold
+1,1,0,1,0,0,0,0,0,0,Common Cold
+0,0,1,0,0,1,1,0,0,0,Common Cold
+0,0,1,0,1,0,1,0,0,1,Common Cold
+1,0,0,1,0,0,1,0,0,1,Common Cold
+0,0,1,1,0,0,0,1,0,0,Common Cold
+0,1,0,0,1,0,0,1,0,0,Common Cold
+0,0,0,0,0,1,0,0,1,0,Common Cold
+0,0,1,0,1,0,0,1,1,0,Common Cold
+1,1,1,1,1,1,0,1,0,1,Measles
+1,1,0,0,1,0,1,0,0,0,COVID-19
+0,0,1,0,0,0,0,0,0,0,Common Cold
+0,0,0,1,0,0,0,0,0,0,Common Cold
+0,0,0,0,0,0,0,0,0,1,Common Cold
+0,1,0,0,0,0,1,0,0,0,Common Cold
+0,0,1,0,1,0,0,0,0,1,Common Cold
+1,1,0,0,0,0,0,0,0,1,Common Cold
+0,0,0,0,0,1,1,0,1,1,Common Cold
+1,0,0,0,1,0,0,1,0,0,Common Cold
+0,0,1,0,0,0,0,0,1,0,Common Cold
